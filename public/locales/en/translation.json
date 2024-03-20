@@ -1,0 +1,43 @@
+{
+  "hospital_name": "Anilom",
+  "hospital_address": "Faizabad-Ayodhya(U.P.) 224001",
+  "hospital_contact": "9660270277",
+  "developers": "Developed by Spydars",
+
+  "navigator": {
+    "contact_us_p1": "Contact",
+    "contact_us_p2": "Us",
+    "privacy_p1": "Privacy",
+    "privacy_p2": "Policy",
+    "home": "Home"
+  },
+  "heading": {
+    "stay_in_touch": "Stay in touch",
+    "change_language": "Change Language",
+    "all_rights_reserved": "© 2024 Anilom. All Rights Reserved."
+  },
+  "home": {
+    "banner_heading": "Donate with 100% transparency",
+    "services": {
+      "heading_p1": "Our",
+      "heading_p2": "Campaigns",
+      "body_banner": "Admission facility, all types of operations, delivery, nebulizer or vaccine for children, gynecologist, cardiologist, X-ray, pediatrician, Chhaar Sutra, Bhagandra, C.O.P.D., I.L.D. and chest related facilities and all pathology tests or ambulance facilities."
+    },
+    "why_us": {
+      "heading": "About",
+      "body": "Our organization, dedicated to the preservation of local artistry and community empowerment, invites you to join us in a unique initiative. We aim to support local pot makers by encouraging donations of diyas, traditional clay lamps. These diyas not only illuminate our homes but also symbolize hope, positivity, and unity within our communities.\n\nBy donating diyas, you contribute to the livelihood of these skilled artisans, helping them sustain their craft and pass it on to future generations. Your support not only helps preserve a rich cultural heritage but also promotes sustainability by encouraging the use of eco-friendly materials. "
+    },
+    "your_doctors": {
+      "heading_p1": "Our",
+      "heading_p2": "Products"
+    },
+    "our_videos": {
+      "heading": "Our Videos",
+      "view_all": "View All"
+    },
+    "happy_moments": {
+      "heading_p1": "Happy",
+      "heading_p2": "Moments"
+    }
+  }
+}
