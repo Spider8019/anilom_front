@@ -6,9 +6,8 @@ const CartContext = createContext()
 
 const getLocalCartData = () => {
   let newCartData = localStorage.getItem('anilomCart')
-  // eslint-disable-next-line eqeqeq
-  if (newCartData == []) return []
-  else return JSON.parse(newCartData)
+  if (!newCartData || newCartData === '[]') return []
+  return JSON.parse(newCartData)
 }
 const initialState = {
   cart: getLocalCartData(),
@@ -74,7 +73,7 @@ export const CartContextProvider = ({ children }) => {
         clearCart,
         setDecrease,
         setIncrease,
-        makeOrder
+        makeOrder,
       }}
     >
       {children}
